@@ -70,9 +70,9 @@
       </ScrollPane>
    </right>
    <center>
-      <ImageView fitHeight="600.0" fitWidth="400.0" pickOnBounds="true" preserveRatio="true" BorderPane.alignment="CENTER">
+      <ImageView fitHeight="600.0" fitWidth="600.0" pickOnBounds="true" preserveRatio="true" BorderPane.alignment="CENTER">
          <image>
-            <Image url="@ufff.jpg" />
+            <Image url="@ufff2.0.jpg" />
          </image>
          <viewport>
             <Rectangle2D />
